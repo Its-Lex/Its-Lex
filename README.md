@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Its-Lex</h1>
 <h3 align="center">Hi, I'm a 16 year old occasional developer who likes to do a few things to help out on a daily basis.</h3>
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
