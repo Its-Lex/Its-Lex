@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1238249048457216103/1238550396062924800/banniereyt.png?ex=663fb171&is=663e5ff1&hm=cacf882b96ac95622a58693bf33b80c8025e38ab054711bb29eca7461cce8562" alt="YouTube Banner" width="2560" height="1440">
+  <img src="https://cdn.discordapp.com/attachments/1238249048457216103/1238550396062924800/banniereyt.png?ex=663fb171&is=663e5ff1&hm=cacf882b96ac95622a58693bf33b80c8025e38ab054711bb29eca7461cce8562" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Its-Lex</h1>
