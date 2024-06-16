@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1238249048457216103/1238552901366845560/github-header-image.png?ex=663fb3c6&is=663e6246&hm=283be4d79d1684b71acde990423bf6efab16d1a53fdd092b7f9d5f28c29e29c7&" alt="Banner">
+  <img src="[https://cdn.discordapp.com/attachments/1238249048457216103/1238552901366845560/github-header-image.png?ex=663fb3c6&is=663e6246&hm=283be4d79d1684b71acde990423bf6efab16d1a53fdd092b7f9d5f28c29e29c7](https://cdn.discordapp.com/attachments/1238249048457216103/1238552901366845560/github-header-image.png?ex=666fd286&is=666e8106&hm=8071ddd0e9ef94bb5a571683de5070546666a54b63dbf858bff74bb03e01d77c&)&" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Its-Lex</h1>
